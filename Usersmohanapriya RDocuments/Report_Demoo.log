@@ -1,0 +1,26 @@
+2022-02-04 20:23:37 INFO  Test_Runner1:44 - browser launch
+2022-02-04 20:23:39 INFO  Test_Runner1:56 - GET THE DATA FROM EXCEL
+2022-02-04 20:23:41 INFO  Test_Runner1:60 - login
+2022-02-04 20:23:43 INFO  Test_Runner1:78 - searching hotel
+2022-02-04 20:46:05 INFO  Test_Runner1:44 - browser launch
+2022-02-04 20:46:07 INFO  Test_Runner1:56 - GET THE DATA FROM EXCEL
+2022-02-04 20:46:10 INFO  Test_Runner1:60 - login
+2022-02-04 20:46:13 INFO  Test_Runner1:78 - searching hotel
+2022-02-04 20:48:47 INFO  Test_Runner1:44 - browser launch
+2022-02-04 20:48:49 INFO  Test_Runner1:56 - GET THE DATA FROM EXCEL
+2022-02-04 20:48:50 INFO  Test_Runner1:60 - login
+2022-02-04 20:48:53 INFO  Test_Runner1:78 - searching hotel
+2022-02-04 20:49:07 INFO  Test_Runner1:108 - logout
+2022-02-05 12:51:39 INFO  Test_Runner1:44 - browser launch
+2022-02-05 12:51:41 INFO  Test_Runner1:56 - GET THE DATA FROM EXCEL
+2022-02-05 12:51:44 INFO  Test_Runner1:60 - login
+2022-02-05 12:51:47 INFO  Test_Runner1:78 - searching hotel
+2022-02-05 12:51:59 INFO  Test_Runner1:108 - logout
+2022-02-06 14:03:41 INFO  Test_Runner1:47 - browser launch
+2022-02-06 14:03:41 INFO  Test_Runner1:63 - GET THE DATA FROM EXCEL
+2022-02-06 14:03:42 INFO  Test_Runner1:67 - login
+2022-02-06 14:06:29 INFO  Test_Runner1:47 - browser launch
+2022-02-06 14:06:29 INFO  Test_Runner1:63 - GET THE DATA FROM EXCEL
+2022-02-06 14:06:30 INFO  Test_Runner1:67 - login
+2022-02-06 14:06:33 INFO  Test_Runner1:85 - searching hotel
+2022-02-06 14:06:43 INFO  Test_Runner1:116 - logout

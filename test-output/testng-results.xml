@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="7" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="110" started-at="2022-02-09T08:01:04Z" finished-at="2022-02-09T08:01:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="110" started-at="2022-02-09T08:01:04Z" finished-at="2022-02-09T08:01:04Z">
+      <class name="com.Mavenproject.Ignore_Case">
+        <test-method status="PASS" signature="fb()[pri:0, instance:com.Mavenproject.Ignore_Case@16e7dcfd]" name="fb" duration-ms="31" started-at="2022-02-09T13:31:04Z" finished-at="2022-02-09T13:31:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fb -->
+        <test-method status="PASS" signature="insta()[pri:0, instance:com.Mavenproject.Ignore_Case@16e7dcfd]" name="insta" duration-ms="0" started-at="2022-02-09T13:31:04Z" finished-at="2022-02-09T13:31:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- insta -->
+        <test-method status="PASS" signature="spotify()[pri:0, instance:com.Mavenproject.Ignore_Case@16e7dcfd]" name="spotify" duration-ms="15" started-at="2022-02-09T13:31:04Z" finished-at="2022-02-09T13:31:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- spotify -->
+        <test-method status="PASS" signature="insta()[pri:0, instance:com.Mavenproject.Ignore_Case@16e7dcfd]" name="insta" duration-ms="0" started-at="2022-02-09T13:31:04Z" finished-at="2022-02-09T13:31:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- insta -->
+        <test-method status="PASS" signature="wkynmusic()[pri:0, instance:com.Mavenproject.Ignore_Case@16e7dcfd]" name="wkynmusic" duration-ms="16" started-at="2022-02-09T13:31:04Z" finished-at="2022-02-09T13:31:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wkynmusic -->
+        <test-method status="PASS" signature="tweet()[pri:0, instance:com.Mavenproject.Ignore_Case@16e7dcfd]" name="tweet" duration-ms="0" started-at="2022-02-09T13:31:04Z" finished-at="2022-02-09T13:31:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tweet -->
+      </class> <!-- com.Mavenproject.Ignore_Case -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
